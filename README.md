@@ -30,3 +30,9 @@
 
 
 <img width="428" alt="스크린샷 2023-04-25 오후 4 44 04" src="https://user-images.githubusercontent.com/61642764/234208947-627c9a18-91f4-4ce6-ba50-3f8d92923603.png">
+
+K값과 distortion coefficient 값을 위의 Calibration 값으로 수정하여 직접 촬영한 영상 사용시 출력
+
+
+<img width="472" alt="스크린샷 2023-04-25 오후 4 51 32" src="https://user-images.githubusercontent.com/61642764/234211146-3aaeb9eb-7661-4e8f-89e4-01a66d30881c.png">
+
