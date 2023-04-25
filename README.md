@@ -1,7 +1,7 @@
 # Camera_Chessboard
 직접 촬영한 체스보드 영상을 카메라 캘리브레이션을 통해 수치를 얻어낸다.
 얻어낸 수치를 통해 pose estimation의 수치를 바꾼다.
-원하는 모양의 좌표를 입력하여 만든다.(작성자의 경우 ㄱ모양을 만들었다.)
+원하는 모양의 좌표를 입력하여 만든다.
 
 
 ## Camera Calibration Results
