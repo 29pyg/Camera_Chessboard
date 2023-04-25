@@ -19,8 +19,14 @@
 <img width="472" alt="스크린샷 2023-04-25 오후 3 29 52" src="https://user-images.githubusercontent.com/61642764/234193210-85431c74-4ed3-417a-8eb3-b90b92a655f1.png">
 
 
-교수님의 예제영상 사용시 출력
+교수님의 예제 사용시 출력
+
+
+<img width="1072" alt="스크린샷 2023-04-25 오후 4 42 25" src="https://user-images.githubusercontent.com/61642764/234208979-17a852b5-1d09-40ac-a232-1fd07eb0c22b.png">
 
 
 
 직접 촬영한 영상 사용시 출력
+
+
+<img width="428" alt="스크린샷 2023-04-25 오후 4 44 04" src="https://user-images.githubusercontent.com/61642764/234208947-627c9a18-91f4-4ce6-ba50-3f8d92923603.png">
